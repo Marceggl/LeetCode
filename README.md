@@ -10,7 +10,7 @@
 ---
 
 <p align="center"> 
-    Irei colocar as soluções que eu fizer no leetcode aqui
+    Irei colocar as soluções que eu fizer no leetcode aqui.
     <br>
     I'll insert here my solutions of LeetCode's problems
 
@@ -18,9 +18,14 @@
 
 ## 📝 Indice
 
+- [informações](#sobre)
 - [Soluções](#solucoes)
 - [Autores](#authors)
 - [Conhecimento](#conhecimento)
+
+## ℹ️ Informações <a name="sobre"></a>
+
+<p>Tive que modificar a lógica do código para que também funcionasse em IDE (VSCode)</p>
 
 ## 💾 Soluções <a name = "solucoes"></a>
 
